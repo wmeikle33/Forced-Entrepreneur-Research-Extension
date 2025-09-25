@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.xlsx
+
+# OS
+.DS_Store
+
+# Stata
+*.log
+*.smcl
+
+# Cache
+.cache/

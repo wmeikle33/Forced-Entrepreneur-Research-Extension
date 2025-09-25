@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Forced Entrepreneurship Across Cultures: An Extension to Forced Entrepreneurs by Hacamo & Kleiner"
+authors:
+  - family-names: Meikle
+    given-names: William
+  - family-names: Moin
+    given-names: Adel
+  - family-names: Fayaz
+    given-names: Abdullah
+  - family-names: Khakimullin
+    given-names: Timur
+date-released: "2022-01-27"
+url: "https://github.com/your-username/forced-entrepreneurship-across-cultures"
