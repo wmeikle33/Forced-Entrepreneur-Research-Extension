@@ -11,6 +11,11 @@ This repository packages the research paper and a light, reproducible structure 
 If you're viewing this on GitHub, the PDF is under [`paper/`](paper/).
 
 ---
+## Notice 
+
+This repository contains original replication code and outputs. It does not include the publisher’s PDF or proprietary datasets. Please see the Data section for instructions to obtain inputs from their original sources.
+
+---
 
 ## Overview
 
